@@ -1,3 +1,4 @@
 I love Data Structures and Algorithms
 I like Binary Trees
 I like Linked Lists
+I like HashMap
