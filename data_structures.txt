@@ -3,3 +3,4 @@ I like Binary Trees
 I like Linked Lists
 I like HashMap
 I like Stacks and Queues
+I like Merge Sort Algorithm
