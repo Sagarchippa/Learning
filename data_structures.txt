@@ -4,3 +4,7 @@ I like Linked Lists
 I like HashMap
 I like Stacks and Queues
 I like Binary Search Algorithm
+I like Merge Sort Algorithm
+I like Seive Of Erostanes Algorithm for Primes
+I like Gap Algorithm for merging two sorted arrays...the best time complexity
+I like Heap Data Structure
