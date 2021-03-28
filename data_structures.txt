@@ -9,3 +9,4 @@ I like Seive Of Erostanes Algorithm for Primes
 I like Gap Algorithm for merging two sorted arrays...the best time complexity
 I like Heap Data Structure
 I like Recursion and Backtracking
+I like HashSet data Data structure
